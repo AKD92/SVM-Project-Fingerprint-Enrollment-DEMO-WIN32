@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1465822120 source:g:\ashish files\documents\dev c++ project files\svm enroll demo host (win32)\src\driver.c
+	<stdio.h>
+	<stdlib.h>
+	"serial_win.h"
+
+1465914040 g:\ashish files\documents\dev c++ project files\svm enroll demo host (win32)\src\serial_win.h
+
+1465820230 source:g:\ashish files\documents\dev c++ project files\svm enroll demo host (win32)\src\serial_win.c
+	<stdio.h>
+	<windows.h>
+
